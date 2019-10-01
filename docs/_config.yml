@@ -1,0 +1,9 @@
+name: Focals Developer API
+description: A way to write applications for Focals.
+markdown: kramdown
+theme: jekyll-theme-dinky
+exclude:
+  - README.md
+  - eula.md
+  - Gemfile
+  - Gemfile.lock
