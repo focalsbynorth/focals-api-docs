@@ -255,6 +255,13 @@ The POST body will always have a paramter named `type` that identifies the actio
 
 For the most part you can name actions however you like, and there is no limit to how many action types an ability can possess.  The only restriction is that there are a few reserved action names, listed in the next section.
 
+## Actions icons
+There is a list of icons that can be used for actions.  
+The syntax required in the action packet is:
+`static:/system/icon/<icon-name>`
+
+[For a full list of icons see the icons page here.](icons.md)
+
 # Reserved integration action ids
 
 The following action types are reserved by the system and have special meanings.
